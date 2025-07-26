@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
               <img 
-                src="/lovable-uploads/55999717-b412-4e62-8ff3-d1cd8290d264.png" 
+                src={`${import.meta.env.BASE_URL}lovable-uploads/55999717-b412-4e62-8ff3-d1cd8290d264.png`}
                 alt="FY Club Logo" 
                 className="h-10 w-10 rounded-full"
               />

@@ -11,7 +11,7 @@ const Hero = () => {
           {/* Logo */}
           <div className="mb-8 animate-gentle-bounce">
             <img 
-              src="/lovable-uploads/55999717-b412-4e62-8ff3-d1cd8290d264.png" 
+              src={`${import.meta.env.BASE_URL}lovable-uploads/55999717-b412-4e62-8ff3-d1cd8290d264.png`}
               alt="FY Club - Forever Young" 
               className="h-32 w-32 mx-auto rounded-full shadow-card"
             />
