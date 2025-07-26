@@ -27,7 +27,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-foreground">Phone</h3>
-                  <p className="text-muted-foreground">(555) 123-4567</p>
+                  <p className="text-muted-foreground">+919476133034</p>
                 </div>
               </div>
               <p className="text-muted-foreground">Call us for immediate assistance or to book your session</p>
@@ -43,7 +43,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-foreground">Email</h3>
-                  <p className="text-muted-foreground">info@fyclub.com</p>
+                  <p className="text-muted-foreground">paleldercare@gmail.com</p>
                 </div>
               </div>
               <p className="text-muted-foreground">Send us your questions or schedule a consultation</p>
@@ -58,7 +58,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-foreground">Location</h3>
-                  <p className="text-muted-foreground">123 Wellness Way, Health City, HC 12345</p>
+                  <p className="text-muted-foreground">54 Feet Road, Benanchity, Durgapur - 713213</p>
                 </div>
               </div>
               <p className="text-muted-foreground">Easily accessible with senior-friendly parking</p>
@@ -73,7 +73,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-foreground">Hours</h3>
-                  <p className="text-muted-foreground">Mon-Fri: 8AM-6PM | Sat: 9AM-4PM</p>
+                  <p className="text-muted-foreground">Mon-Sat: 8AM-9PM</p>
                 </div>
               </div>
               <p className="text-muted-foreground">Convenient hours designed for your schedule</p>
@@ -90,10 +90,9 @@ const Contact = () => {
             
             <div className="space-y-4 mb-8">
               <Button variant="warm" size="senior-xl" className="w-full max-w-sm">
-                Schedule Free Consultation
-              </Button>
-              <Button variant="outline" size="senior" className="w-full max-w-sm bg-primary-foreground/10 border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">
-                Download Class Schedule
+                <a href="https://api.whatsapp.com/send?phone=919476133034&text=Hi" target="_blank">
+                  Schedule Free Consultation
+                </a>
               </Button>
             </div>
 

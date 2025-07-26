@@ -36,7 +36,9 @@ const Header = () => {
 
           {/* CTA Button */}
           <Button variant="warm" size="senior" className="hidden md:flex">
-            Book Session
+            <a href="https://api.whatsapp.com/send?phone=919476133034&text=Hi" target="_blank">
+              Book Session
+            </a>
           </Button>
         </div>
       </div>

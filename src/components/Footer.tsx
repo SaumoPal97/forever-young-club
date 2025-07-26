@@ -21,7 +21,7 @@ const Footer = () => {
               gentle yoga, therapeutic massage, and expert physiotherapy.
             </p>
             <p className="text-primary-foreground/60 text-sm">
-              Licensed & Certified • Senior Wellness Specialists • Est. 2014
+              Licensed & Certified • Senior Wellness Specialists • Est. 2025
             </p>
           </div>
 
@@ -56,11 +56,11 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-primary-foreground/80">
-              <p>(555) 123-4567</p>
-              <p>info@fyclub.com</p>
+              <p>+919476133034</p>
+              <p>paleldercare@gmail.com</p>
               <p className="text-sm">
-                123 Wellness Way<br />
-                Health City, HC 12345
+                54 Feet Road, Benachity<br />
+                Durgapur 713213
               </p>
             </div>
           </div>

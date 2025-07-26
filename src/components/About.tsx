@@ -62,7 +62,7 @@ const About = () => {
             
             <div className="grid grid-cols-2 gap-6 mb-8">
               <div className="text-center">
-                <div className="text-4xl font-bold text-teal-circle mb-2">500+</div>
+                <div className="text-4xl font-bold text-teal-circle mb-2">10+</div>
                 <div className="text-muted-foreground">Happy Members</div>
               </div>
               <div className="text-center">
@@ -70,7 +70,7 @@ const About = () => {
                 <div className="text-muted-foreground">Report Improvement</div>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-sage-green mb-2">10+</div>
+                <div className="text-4xl font-bold text-sage-green mb-2">2+</div>
                 <div className="text-muted-foreground">Years Experience</div>
               </div>
               <div className="text-center">
@@ -81,7 +81,7 @@ const About = () => {
             
             <div className="bg-secondary/50 rounded-lg p-6">
               <p className="text-foreground italic mb-4">
-                "FY Club has transformed my life. At 68, I feel stronger and more flexible than I have in years. 
+                "FY Club has transformed my life. At 62, I feel stronger and more flexible than I have in years. 
                 The instructors are so patient and understanding."
               </p>
               <div className="flex items-center">
@@ -89,8 +89,8 @@ const About = () => {
                   M
                 </div>
                 <div>
-                  <div className="font-semibold text-foreground">Margaret S.</div>
-                  <div className="text-muted-foreground text-sm">Member since 2021</div>
+                  <div className="font-semibold text-foreground">Mrs. Bose</div>
+                  <div className="text-muted-foreground text-sm">Member since 2025</div>
                 </div>
               </div>
             </div>

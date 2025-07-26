@@ -48,7 +48,9 @@ const Services = () => {
                 </li>
               </ul>
               <Button variant="gentle" size="senior" className="w-full">
-                Learn More
+                <a href="https://api.whatsapp.com/send?phone=919476133034&text=Hi" target="_blank">
+                  Book Session
+                </a>
               </Button>
             </div>
           </Card>
@@ -85,7 +87,9 @@ const Services = () => {
                 </li>
               </ul>
               <Button variant="warm" size="senior" className="w-full">
-                Book Session
+                <a href="https://api.whatsapp.com/send?phone=919476133034&text=Hi" target="_blank">
+                  Book Session
+                </a>
               </Button>
             </div>
           </Card>
@@ -122,22 +126,12 @@ const Services = () => {
                 </li>
               </ul>
               <Button variant="default" size="senior" className="w-full">
-                Schedule Consultation
+                <a href="https://api.whatsapp.com/send?phone=919476133034&text=Hi" target="_blank">
+                  Book Session
+                </a>
               </Button>
             </div>
           </Card>
-        </div>
-
-        {/* Special Programs */}
-        <div className="bg-secondary/50 rounded-lg p-8 text-center">
-          <h3 className="text-3xl font-bold text-foreground mb-4">Special Programs for Women 50+</h3>
-          <p className="text-lg text-muted-foreground mb-6 max-w-2xl mx-auto">
-            We offer specialized wellness programs designed specifically for women's health needs after 50, 
-            including menopause support, bone health, and hormonal balance.
-          </p>
-          <Button variant="hero" size="senior" className="mx-auto">
-            Explore Women's Programs
-          </Button>
         </div>
       </div>
     </section>

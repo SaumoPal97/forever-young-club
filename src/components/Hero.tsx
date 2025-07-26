@@ -35,10 +35,12 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <Button variant="warm" size="senior-xl" className="min-w-[200px]">
+              <a href="https://api.whatsapp.com/send?phone=919476133034&text=Hi" target="_blank">
               Start Your Journey
+              </a>
             </Button>
             <Button variant="outline" size="senior-xl" className="min-w-[200px] bg-primary-foreground/10 border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">
-              Learn More
+              <a href="#services">Learn More</a>
             </Button>
           </div>
 
